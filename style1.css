@@ -1,0 +1,39 @@
+.content {
+  background-color: gainsboro;
+  height: 400px;
+  width: 100%;
+  border: none;
+  position: relative;
+}
+
+.text {
+  position: sticky;
+  text-align: left;
+  padding-top: 25px;
+  padding-left: 50px;
+}
+.header {
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 50px;
+  padding-right: 400px;
+}
+
+.h1 {
+  padding-top: 100px;
+}
+.p {
+  padding-top: 10px;
+}
+.search-field {
+  width: 25%;
+  margin-top: 10px;
+  font-size: 15px;
+  text-align: center;
+  border-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: salmon;
+  border-image: initial;
+  margin-left: 580px;
+}
